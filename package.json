@@ -2,10 +2,10 @@
   "name": "mongo_lesson",
   "version": "1.0.0",
   "description": "",
-  "main": "indexes.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node indexes.js",
-    "server": "nodemon indexes.js"
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
